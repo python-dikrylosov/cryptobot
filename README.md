@@ -1,0 +1,2 @@
+# cryptobot
+LSTM.DENSE
